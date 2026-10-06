@@ -75,5 +75,5 @@ pip install pandas seaborn matplotlib
 ---
 
 ```
-Let me know if you'd like this converted into a downloadable .md or .ipynb zip file — or if you want to tr
+
 ```
